@@ -3,7 +3,7 @@
 
 ![Logos participantes](figs/logos.png)
 
-![IA applications](figs/IA.png)
+![IA applications](figs/ia-bloque.jpg)
 
 ---
 

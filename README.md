@@ -7,7 +7,7 @@
 
 ---
 
-**Fecha:** 21 de abril a 21 mayo de 2024  
+**Fecha:** 21 de abril a 21 mayo de 2025
 
 **Responsable:** Dr. Ulises Olivares Pinto  
 

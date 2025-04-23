@@ -11,7 +11,7 @@
 
 **Responsable:** Dr. Ulises Olivares Pinto  
 
-**Auxiliares:** Fernando Ramírez González
+**Auxiliar:** Fernando Ramírez González
 
 ## Objetivo General
 Desarrollar una comprensión profunda y aplicada de los principios y técnicas fundamentales de la inteligencia artificial y el aprendizaje profundo, capacitando a los participantes para diseñar, implementar y evaluar soluciones avanzadas en diversos contextos y problemas reales.
@@ -41,7 +41,9 @@ Desarrollar una comprensión profunda y aplicada de los principios y técnicas f
 
 | Sesiones    | Tema                                                               | Subtemas                                                                                                                                                   | Material de Consulta                                                                                                     | Ejercicios y Demostraciones | Presentación                |
 |-------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|----------------------------|-----------------------------|
-| Sesión 1    | Introducción a la IA y Aprendizaje Profundo                        | <ul><li>Historia y Fundamentos de la IA</li><li>Diferencias entre ML y AP</li><li>Aplicaciones y Casos de Éxito</li></ul>                                    | ["Artificial Intelligence: A Modern Approach" por Stuart Russell y Peter Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) |   [Perceptron y Perceptron multicapa](https://colab.research.google.com/drive/1WgtbNW94YZ_Wtj-5AG4f4C9GQ60cRRlT?usp=sharing)  | [Presentación](pdf/Día1.pdf) |
+| Sesión 1    | Introducción a la IA y Aprendizaje Profundo                        | <ul><li>Historia y Fundamentos de la IA</li><li>Diferencias entre ML y AP</li><li>Aplicaciones y Casos de Éxito</li></ul>                                    | ["Artificial Intelligence: A Modern Approach" por Stuart Russell y Peter Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) |   <li>[IA Generativa](https://huggingface.co/spaces/ByteDance/InfiniteYou-FLUX)</li> | [Presentación sesión 1](pdf/Día1.pdf) |
+| Sesión 2    | Aprendizaje clásico y Fundamentos de Redes Neuronales                                    | <ul><li>Regresión líneal</li><li>Conceptos Básicos de ANNs</li><li>Arquitecturas de Redes</li><li>Entrenamiento de Redes Neuronales</li></ul>                                          | ["Deep Learning" por Ian Goodfellow, Yoshua Bengio, y Aaron Courville](https://www.deeplearningbook.org/)                |     <ul><li>[Tensorflow Playground](https://playground.tensorflow.org/)</li><li>[Demo 1: Regresión lineal](https://colab.research.google.com/drive/1hjppGBNbRxMI9cb09qCWACUWm-j_CanQ?usp=sharing)</li> <li>[Demo 2: Perceptrón y Perceptrón multicapa](https://colab.research.google.com/drive/1WgtbNW94YZ_Wtj-5AG4f4C9GQ60cRRlT?usp=sharing)</li>  </ul>       | [Presentación sesión 2](pdf/Día2.pdf) |
+
 
 
 

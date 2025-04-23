@@ -11,7 +11,7 @@
 
 **Responsable:** Dr. Ulises Olivares Pinto  
 
-**Auxiliares:** Fernando Ramírez González
+**Auxiliar:** Fernando Ramírez González
 
 ## Objetivo General
 Desarrollar una comprensión profunda y aplicada de los principios y técnicas fundamentales de la inteligencia artificial y el aprendizaje profundo, capacitando a los participantes para diseñar, implementar y evaluar soluciones avanzadas en diversos contextos y problemas reales.

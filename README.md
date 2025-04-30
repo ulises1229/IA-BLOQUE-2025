@@ -44,8 +44,9 @@ Desarrollar una comprensión profunda y aplicada de los principios y técnicas f
 | Sesión 1    | Introducción a la IA y Aprendizaje Profundo                        | <ul><li>Historia y Fundamentos de la IA</li><li>Diferencias entre ML y AP</li><li>Aplicaciones y Casos de Éxito</li></ul>                                    | ["Artificial Intelligence: A Modern Approach" por Stuart Russell y Peter Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) |   <li>[IA Generativa](https://huggingface.co/spaces/ByteDance/InfiniteYou-FLUX)</li> | [Presentación sesión 1](pdf/Día1.pdf) |
 | Sesión 2    | Aprendizaje clásico                                    | <ul><li>Regresión líneal</li></ul>                                          | ["Deep Learning" por Ian Goodfellow, Yoshua Bengio, y Aaron Courville](https://www.deeplearningbook.org/)                |     <ul><li>[Demo 1: Regresión lineal](https://colab.research.google.com/drive/1hjppGBNbRxMI9cb09qCWACUWm-j_CanQ?usp=sharing)</li>   </ul>       | [Presentación sesión 2](pdf/Día2.pdf) |
 | Sesión 3    |Fundamentos de Redes Neuronales                                    | <ul><li>Conceptos Básicos de ANNs</li><li>Arquitecturas de Redes</li><li>Entrenamiento de Redes Neuronales</li></ul>                                          | ["Deep Learning" por Ian Goodfellow, Yoshua Bengio, y Aaron Courville](https://www.deeplearningbook.org/)                |     <ul><li>[Tensorflow Playground](https://playground.tensorflow.org/)</li> <li>[Demo 1: Perceptrón y Perceptrón multicapa](https://colab.research.google.com/drive/1WgtbNW94YZ_Wtj-5AG4f4C9GQ60cRRlT?usp=sharing)</li>  </ul>       | [Presentación sesión 3](pdf/Día3.pdf) |
+| Sesión 4    |Redes Neuronales Convolucionales                                    |                                      |               |     <ul><li>[Demo 2: Redes Neuronales Convolucionales](https://colab.research.google.com/drive/1U4qlLmZqwCZRJo3ATHf40Gp27kJOpTto?usp=sharing)</li>  </ul>       | [Presentación sesión 4](pdf/Día3.pdf) |
 
 
 
 
-#### Última modificación: 28 de abril de 2025
+#### Última modificación: 29 de abril de 2025

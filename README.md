@@ -46,10 +46,12 @@ Desarrollar una comprensión profunda y aplicada de los principios y técnicas f
 | Sesión 3    |Fundamentos de Redes Neuronales                                    | <ul><li>Conceptos Básicos de ANNs</li><li>Arquitecturas de Redes</li><li>Entrenamiento de Redes Neuronales</li></ul>                                          | ["Deep Learning" por Ian Goodfellow, Yoshua Bengio, y Aaron Courville](https://www.deeplearningbook.org/)                |     <ul><li>[Tensorflow Playground](https://playground.tensorflow.org/)</li> <li>[Demo 1: Perceptrón y Perceptrón multicapa](https://colab.research.google.com/drive/1WgtbNW94YZ_Wtj-5AG4f4C9GQ60cRRlT?usp=sharing)</li>  </ul>       | [Presentación sesión 3](pdf/Día3.pdf) |
 | Sesión 4    | Redes Neuronales Convolucionales (CNN) - Ejercicios y aplicaciones | <ul><li>Fundamentos y Arquitectura de CNNs</li></ul>                                 | ["Convolutional Neural Networks for Visual Recognition" - Stanford University](http://cs231n.stanford.edu/)            |    <ul><li>[Teachable machine](https://teachablemachine.withgoogle.com/)</li><li>[OpenAI - Microscope](https://openai.com/index/microscope/)</li>  </ul>       | [Presentación sesión 4](pdf/Día4.pdf) |
 | Sesión 5    | Redes Neuronales Convolucionales (CNN) | <ul><li>Ejercicios</li></ul>                                 | ["Convolutional Neural Networks for Visual Recognition" - Stanford University](http://cs231n.stanford.edu/)            |    <ul><li>[Teachable machine](https://teachablemachine.withgoogle.com/)</li><li>[OpenAI - Microscope](https://openai.com/index/microscope/)</li><li>[CNN Explainer](https://poloclub.github.io/cnn-explainer/)</li><li>[Demo 2: Redes Neuronales Convolucionales](https://colab.research.google.com/drive/1U4qlLmZqwCZRJo3ATHf40Gp27kJOpTto?usp=sharing)</li>  </ul>       | [Presentación sesión 5](pdf/Día5.pdf) |
+| Sesión 6    | Redes Neuronales Convolucionales (CNN) | <ul><li>Aplicaciones prácticas</li></ul>                                 | ["Convolutional Neural Networks for Visual Recognition" - Stanford University](http://cs231n.stanford.edu/)            |    <ul><li>[Demo 3: Clasificaciíon con CNNs y ejercicios](https://colab.research.google.com/drive/156LqSlh8E9Q1qphA-n7dy7ctvfTqwSqF?usp=sharing)</li>  </ul>       | [Presentación sesión 6](pdf/Día6.pdf) |
 
 
 
 
 
 
-#### Última modificación: 30 de abril de 2025
+
+#### Última modificación: 7 de mayo de 2025
